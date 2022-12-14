@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and developing.
 - 📫 Contact me by yuansu.china.work@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyuan32)
+![Anurag's GitHub stats](https://github-readme-stats-drbc.vercel.app/api?username=suyuan32)
 
 <!---
 suyuan32/suyuan32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
